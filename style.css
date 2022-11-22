@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}  
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    text-align: center;
+    opacity: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+  text-align: center;
+}
+.logo {
+    width: 50px;
+    height: 50px;
+    margin-right: auto;
+    margin-top: 0px; 
+    border-radius: 50%;;
+  }
+               .container {
+                   list-style: none;
+                   display: flex;
+                   background-color: #1EBE0A;
+                   font-size: 30px;
+
+               }
+              .items {
+                padding-right: 30px;
+                padding-top: 5px;
+                font-family: Arial, Helvetica, sans-serif;
+              }
+              .items a {
+                color: azure;
+                text-decoration: none;
+
+              }
+              .items a:hover {
+                color: rgb(0, 0, 0);
+              }              
